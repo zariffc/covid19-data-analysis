@@ -21,6 +21,6 @@ Using Python and its data analysis libraries, this project examines COVID-19 cas
 - Interactive Heat maps to display the top 5 counties and states
 
 ## LINK TO PROJECT ##
-https://github.com/zariffc/covid19-data-analysis/blob/main/COVID19Analysis.html
+[https://github.com/zariffc/covid19-data-analysis/blob/main/COVID19Analysis.html](https://zariffc.github.io/covid19-data-analysis/COVID19Analysis.html)
 
 *Created by Zarif Chowdhury for school project 2024*
