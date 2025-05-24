@@ -1,4 +1,4 @@
-# covid19-data-analysis
+# COVID-19 DATA ANALYSIS
 Using Python and its data analysis libraries, this project examines COVID-19 cases across the U.S. from 2020-2022
 
 ## OBJECTIVES ##
