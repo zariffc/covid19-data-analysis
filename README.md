@@ -20,4 +20,7 @@ Using Python and its data analysis libraries, this project examines COVID-19 cas
 - Line plots to display COVID-19 trends over time
 - Interactive Heat maps to display the top 5 counties and states
 
+## LINK TO PROJECT ##
+file:///C:/Users/Zarif%20Chowdhury/Downloads/COVID19Analysis.html
+
 *Created by Zarif Chowdhury for school project 2024*
